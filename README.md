@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=durmus-pala" alt="durmus-pala" /></a> </p>
 
-- 🌱 I’m currently learning **Django framework**
+- 🌱 I’m currently working as a software developer
 
 - 👨‍💻 All of my projects are available at [https://github.com/durmus-pala?tab=repositories](https://github.com/durmus-pala?tab=repositories)
 
